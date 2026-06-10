@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+instance/
+db.sqlite
+anime_music.db
+uploads/*
+!uploads/.gitkeep
